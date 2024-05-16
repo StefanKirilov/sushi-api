@@ -11,10 +11,9 @@ Make sure you have the following software installed on your local machine:
 - [Node.js](https://nodejs.org/) (which includes npm)
 - [MongoDB](https://www.mongodb.com/)
 
-### Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+### MongoDB
+МongoDB data must be taken from a folder "mongoDB_menu_collection".
 
 ### Install Server Dependencies
 Navigate to the server directory and install the necessary dependencies:
