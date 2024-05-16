@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "65eec48f0e2d57c02a9f3e7f"
+  },
+  "name": "ДРАКОН РОЛ МАКСИ",
+  "description": "ориз, нори, Филаделфия, рулце от рак, сьомга,краставица, дракон сос, Яката майонеза, унаги сос, кимчи сусам\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "15.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/5d71cf46f1df8f351b7006b22630c29c.png",
+  "likes": [
+    {
+      "$oid": "6631108ec0e3918b72722f95"
+    },
+    {
+      "$oid": "663a2443b971a6e0dd85d0b2"
+    },
+    {
+      "$oid": "663b3f666bcb678006c39151"
+    },
+    {
+      "$oid": "663b502441a635559bef306c"
+    },
+    {
+      "$oid": "663b502441a635559bef306c"
+    },
+    {
+      "$oid": "663c8ca562fe8e449a0a55ee"
+    },
+    {
+      "$oid": "6640f2bd3bd5755c46c16760"
+    },
+    {
+      "$oid": "663debc54fdf6241dcfd1f67"
+    }
+  ],
+  "commentList": [],
+  "__v": 1219,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "280"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630eb80ac52939321021eec"
+  },
+  "name": "ДРАКОН РОЛ",
+  "description": "ориз, нори, Филаделфия, рулце от рак, сьомга,краставица, дракон сос, Яката майонеза, унаги сос, кимчи сусам\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "8.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/d26b573cdb542807ddb7c688fe50e36d.png",
+  "likes": [
+    {
+      "$oid": "663a2443b971a6e0dd85d0b2"
+    },
+    {
+      "$oid": "6640f2bd3bd5755c46c16760"
+    },
+    {
+      "$oid": "663debc54fdf6241dcfd1f67"
+    },
+    {
+      "$oid": "663debc54fdf6241dcfd1f67"
+    }
+  ],
+  "commentList": [],
+  "__v": 343,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec62ac52939321021eed"
+  },
+  "name": "ФИЛАДЕЛФИЯ РОЛ МАКСИ",
+  "description": "ориз, нори, Филаделфия, пушена сьомга,краставица, сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "14.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/5af61c6c93b1f105f6d32e15ea548830.png",
+  "likes": [
+    {
+      "$oid": "6640f2bd3bd5755c46c16760"
+    }
+  ],
+  "commentList": [],
+  "__v": 334,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "240"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec64ac52939321021eee"
+  },
+  "name": "ФИЛАДЕЛФИЯ РОЛ",
+  "description": "ориз, нори, Филаделфия, пушена сьомга,краставица, сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "7.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/7ef945365ca676cc94e9ba75ba4d6633.png",
+  "likes": [
+    {
+      "$oid": "663a2443b971a6e0dd85d0b2"
+    },
+    {
+      "$oid": "663b502441a635559bef306c"
+    },
+    {
+      "$oid": "663debc54fdf6241dcfd1f67"
+    }
+  ],
+  "commentList": [],
+  "__v": 342,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "120"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec67ac52939321021eef"
+  },
+  "name": "ИНАРИ СКАРИДА РОЛ МАКСИ",
+  "description": "ориз, нори, Филаделфия, скарида, краставица, тобико.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "14.79"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/a87199ab8a95f769d19c937569b55c3e.png",
+  "likes": [
+    {
+      "$oid": "663debc54fdf6241dcfd1f67"
+    }
+  ],
+  "commentList": [],
+  "__v": 347,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "240"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec69ac52939321021ef0"
+  },
+  "name": "ИНАРИ СКАРИДА РОЛ",
+  "description": "ориз, нори, Филаделфия, скарида, краставица, тобико.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "8.29"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/d6371952a7f0a07362824297bd156d7b.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "120"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec6bac52939321021ef1"
+  },
+  "name": "ПАРАДАЙС РОЛ МАКСИ",
+  "description": "ориз, нори,  пушена сьомга, краставица, авокадо, мус от рак, Яката майонеза, дракон сос, унаги сос.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "15.89"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/d6be224c396cb2da5bd407948c5bf585.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "280"
+  }
+},
+{
+  "_id": {
+    "$oid": "6630ec6dac52939321021ef2"
+  },
+  "name": "ПАРАДАЙС РОЛ",
+  "description": "ориз, нори,  пушена сьомга, краставица, авокадо, мус от рак, Яката майонеза, дракон сос, унаги сос.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "9.39"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/bd56bcc8076c5a801de65d65e7d9318a.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207c6bcc147537ee33902"
+  },
+  "name": "КРИСПИ ЧИКЪН РОЛ МАКСИ",
+  "description": "ориз, нори, Филаделфия, пилешко филе, краставица, Яката майонеза, манго сос, сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "13.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/d08b40bbef93c57aa06a8df944f3b802.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "260"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207c8bcc147537ee33903"
+  },
+  "name": "ТОГАРАШИ РОЛ МАКСИ",
+  "description": "ориз, нори, риба тон, дайкон, Яката майонеза, тогараши, срирача майонеза, унаги сос, кимчи сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос",
+  "price": {
+    "$numberDecimal": "17.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/00269b904c076ec757a92071d38407e5.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "280"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207cabcc147537ee33904"
+  },
+  "name": "ТОГАРАШИ РОЛ",
+  "description": "ориз, нори, риба тон, дайкон, Яката майонеза, тогараши, срирача майонеза, унаги сос, кимчи сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "8.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/90deb62c213a3af0ea0f6f0731378853.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 342,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207ccbcc147537ee33905"
+  },
+  "name": "ЧИКЪН ТАМАГО РОЛ МАКСИ",
+  "description": "ориз, нори, пилешко филе, краставица, тамаго омлет, Яката майонеза , чедър, кимчи сусам , див лук.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "14.79"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/2d8e18e84d5279e640db4d734b4f81fc.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "280"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207cebcc147537ee33906"
+  },
+  "name": "ЧИКЪН ТАМАГО РОЛ",
+  "description": "ориз, нори, пилешко филе, краставица, тамаго омлет, Яката майонеза , чедър, кимчи сусам , див лук.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "7.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/c42bce19a05f4b88ef85638bd0f0c7e3.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207cfbcc147537ee33907"
+  },
+  "name": "ОУШЪН РОЛ МАКСИ",
+  "description": "ориз, нори, Филаделфия , риба тон, сьомга, краставица, авокадо, скарида, срирача чили сос.",
+  "price": {
+    "$numberDecimal": "14.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/6ba6352298143927dfb867504eeeee71.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "8"
+  },
+  "weight": {
+    "$numberDecimal": "260"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207d1bcc147537ee33908"
+  },
+  "name": "ОУШЪН РОЛ",
+  "description": "ориз, нори, Филаделфия , риба тон, сьомга, краставица, авокадо, скарида, срирача чили сос.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "8.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/611eecf437038077f9e7168bff73b8a7.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "130"
+  }
+},
+{
+  "_id": {
+    "$oid": "663207d3bcc147537ee33909"
+  },
+  "name": "КРИСПИ ЧИКЪН РОЛ",
+  "description": "ориз, нори, Филаделфия, пилешко филе, краставица, Яката майонеза, манго сос, сусам.\nВсяка порция суши включва 5 гр. уасаби, 10 гр. джинджифил, 8-10 мл. соев сос.",
+  "price": {
+    "$numberDecimal": "7.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/f0deebe116aed7a8cb23f87d3860ff8b.png",
+  "likes": [],
+  "commentList": [],
+  "__v": 333,
+  "count": {
+    "$numberDecimal": "4"
+  },
+  "weight": {
+    "$numberDecimal": "130"
+  }
+}]

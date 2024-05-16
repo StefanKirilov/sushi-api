@@ -1,0 +1,167 @@
+.top{
+    background-color: rgb(82,82,82);
+    background-image: url("../../assets/sushi_7.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    text-align: center;
+    color: #ceab4a;
+    min-height: 100%;
+    caret-color: transparent;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.category-name {
+    margin-top: 100px;
+    width: 60%;
+    position: relative;
+    left: 38%;
+}
+
+.container-top{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    flex-wrap: wrap;
+    margin: 60px;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    caret-color: transparent;
+    position: relative;
+    left: 25%;
+}
+
+
+.container-second{
+    display: inline-flex;
+    flex-direction: column;
+    width: 300px;
+    border: 2px solid rgba(145, 144, 144, 0.3);
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(105, 104, 104, 0.4);
+}
+
+.container-second a{
+    text-decoration: none;
+}
+
+.container-second:hover{
+    border: 3px solid rgba(136, 135, 135, 0.9);
+    cursor: pointer;
+}
+
+.container-img{
+    height: 200px;
+}
+
+.container-img .image {
+    width: 100%;
+    height: 100%;
+}
+
+
+.container-items{
+    color: #ceab4a;
+    background-color: transparent;
+
+}
+
+.container-items .name{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.container-items .name a{
+    color: #fae3a9;
+    text-decoration: none;
+}
+
+.line {
+    width: 50%;
+    height: 1px;
+    border-bottom: 2px solid #fae3a9;
+    margin-bottom: 16px;
+    position: relative;
+    left: 25%;
+}
+
+.container-items .price{
+    color: #fae3a9;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.container-items .detail{
+    color: #ee1111;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border: 2px solid #ee1111;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    margin: 20px 0px;
+    padding: 6px;
+}
+
+.container-items .detail:hover{
+    background-color: #ee1111;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+}
+
+.container-items .weight{
+    display: inline-flex;
+    color: #fae3a9;
+    font-size: 20px;
+}
+
+.container-items .count{
+    display: inline-flex;
+    color: #fae3a9;
+    font-size: 20px;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+@media (max-width: 781px) {
+    
+    .category-name {
+        width: 100%;
+        left: 0%;
+    }
+    
+    .container-top{
+        width: 100%;
+        margin: 60px 0px;
+        left: 0%;
+    }
+    
+    
+    .container-second{
+        width: 260px;
+    }
+    
+    
+    .container-img{
+        height: 160px;
+    }
+
+}

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663256a353246f043c0bb75b"
+  },
+  "name": "ШОКО КЕЙК",
+  "description": "шоколадов мус, бисквити, сметана, масло, парченца шоколад",
+  "price": {
+    "$numberDecimal": "5.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/757c81a5e14ef5cc26da2f05634cd28d.png",
+  "__v": 0,
+  "volume": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "663256a553246f043c0bb75c"
+  },
+  "name": "ЛИЧИ ЧИЙЗКЕЙК",
+  "description": "маскарпоне,сметана,бисквити, масло,личи,малина,роза",
+  "price": {
+    "$numberDecimal": "6.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/998e6b1c2d3760eab83a6fa9664f9f56.png",
+  "__v": 0,
+  "volume": {
+    "$numberDecimal": "140"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cc9fef05294d16251fa9f"
+  },
+  "name": "МАТЧА КЕЙК",
+  "description": "матча, яйца, брашно, маскарпоне",
+  "price": {
+    "$numberDecimal": "6.39"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/e34c53173c79bf68856a5fa766d86420.png",
+  "__v": 0,
+  "volume": {
+    "$numberDecimal": "160"
+  }
+}]

@@ -1,0 +1,81 @@
+.wrap {
+    background-color: rgb(82,82,82);
+    background-image: url("../../assets/sushi-first-page.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    min-height: 100%;
+    caret-color: transparent;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.section {
+    height: 300px;
+    position: absolute;
+    top: 180px;
+    left: 50%;
+    color: #e7e7e7;
+    text-align: center;
+    padding: 10px;
+}
+
+.section .name{
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.section p{
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.section .tel{
+    margin-bottom: 48px;
+}
+
+.section .menu {
+    color: #fae3a9;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.section a:hover {
+    color: #e10c27;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 781px) {
+    
+    .section {
+        height: 300px;
+        width: 70%;
+        position: absolute;
+        top: 180px;
+        left: 15%;
+        color: #e7e7e7;
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .section .name{
+        font-size: 36px;
+    }
+
+}

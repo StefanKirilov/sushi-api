@@ -1,0 +1,89 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    width: 50%;
+    color: #ceab4a;
+    position: absolute;
+    left: 46%;
+    top: 8%;
+    border-radius: 12px;
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.wrap .shopName{
+    font-size: 14px;
+    margin-top: 6px;
+    margin-bottom: 12px;
+}
+
+.wrap .button{
+    display: inline;
+    margin: 8px;
+    margin-left: auto;
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+    color: #ceab4a;
+    border: 2px solid #ceab4a;
+    background-color: black;
+    cursor: pointer;
+}
+
+.container-second{
+    display: flex;
+    width: 30%;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-left: auto;
+    font-size: 20px;
+}
+
+.buttons{
+    display: flex;
+}
+
+.order-btn {
+    display: flex;
+    justify-content: center;
+    width:90px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid rgba(145, 144, 144, 0.9);
+    background-color:rgba(105, 104, 104, 0.8);
+    color: #ceab4a;
+    margin: 12px auto;  
+}
+
+.order-btn:hover {
+    color: white;
+    background-color: #ddba58;
+    cursor: pointer;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 781px) {
+    
+    .wrap{
+        background-color: rgba(0,0,0,0.9);
+        width: 90%;
+        left: 5%;
+        top: 10%;
+    }
+    
+    .container-second{
+        width: 50%;
+    }    
+
+}

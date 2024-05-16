@@ -1,0 +1,228 @@
+.heading {
+    /* color: #ddba58; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    width: 100%;
+    caret-color: transparent;
+    color: #e7e7e7;
+    background-color: rgb(82,82,82);
+    background-image: url("../../assets/contacts_img_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    padding-bottom: 100px;
+    animation: fadeInAnimation ease 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.title {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-size: 64px;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.container .image{
+    width: 60%;
+    margin: 64px 0px 64px 64px;
+}
+
+.container .image img{
+    width: 40%;
+    transition: 1s ease-in;
+    border-radius: 12px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+}
+
+.container .image img:hover{
+    transform: scale(1.2);
+}
+
+.container .text{
+   margin-right: 48px;
+   margin-top: 80px;
+   text-align: center;
+}
+
+.container .text .workTime{
+    margin-bottom: 24px;
+ }
+
+ li{
+    list-style: none;
+    margin-bottom: 2px;
+ }
+
+ .container .text h2{
+    margin: 12px 0px 12px 0px;
+ }
+
+ .comment .form {
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    padding: 20px;
+    border: 2px solid rgba(196, 192, 192, 0.8);
+    background-color: rgba(190, 189, 189, 0.2);
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+}
+
+
+.btn {
+    width: 200px;
+    margin-left: auto;
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border: 2px solid rgba(196, 192, 192, 0.8);
+    background-color: rgba(190, 189, 189, 0.8);
+    border-radius: 8px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    margin-right: 20px;
+}
+
+.titleComment {
+    margin: 10px;
+    font-size: 24px;
+}
+
+.comment {
+    width: 70%;
+}
+
+.comment form .btn:hover {
+    background-color: rgb(71, 71, 71);
+    color: rgba(190, 189, 189, 0.8);
+}
+
+.div-comment {
+    border: 2px solid rgba(196, 192, 192, 0.8);
+    background-color: rgba(190, 189, 189, 0.2);
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.div-comment p {
+    margin-bottom: 4px;
+}
+
+.div-comment .bin-wrapper {
+    display: flex;
+    width: 200px;
+    gap: 5px;
+    border-radius: 16px;
+    padding: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+}
+
+.div-comment .wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.bin {
+    display: inline;
+    height: 20px;
+    cursor: pointer;
+}
+
+.edit {
+    display: inline;
+    height: 24px;
+    cursor: pointer;
+}
+
+.likes {
+    display: inline;
+    width: 100px;
+}
+
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 781px) {
+    
+    .title {
+        text-align: center;
+        margin-top: 60px;
+        margin-bottom: 20px;
+        font-size: 42px;
+    }
+    
+    .container .image{
+        display: none;
+    }
+    
+    .container .text {
+        width: 70%;
+     }
+
+    .container .text .workTime{
+        font-size: 24px;
+     }
+
+    
+    .comment {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        align-items: center;
+        margin-bottom: 32px;
+    }
+
+    .comment .form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } 
+
+    .div-comment  {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 70%;
+    }
+
+    .div-comment p {
+        width: 100%;
+    }
+    
+    
+    .div-comment .bin-wrapper {
+        width: 100%;
+    }
+    
+
+}

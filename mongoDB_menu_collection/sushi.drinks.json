@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "66320ac1bcc147537ee3390b"
+  },
+  "name": "ФАНТА ПОРТОКАЛ",
+  "price": {
+    "$numberDecimal": "3.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/3c27cd828d8e266ddcb4649060d6a4b2.png",
+  "__v": 0,
+  "type": "330 МЛ - КЕН - ПОРТОКАЛ",
+  "volume": {
+    "$numberDecimal": "330"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ac5bcc147537ee3390c"
+  },
+  "name": "СПРАЙТ",
+  "price": {
+    "$numberDecimal": "3.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/5488ec0a05c12a501508700ac2802958.png",
+  "__v": 0,
+  "type": "330 мл. - кен",
+  "volume": {
+    "$numberDecimal": "330"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ac7bcc147537ee3390d"
+  },
+  "name": "СТУДЕН ЧАЙ ФЮЗТИЙ ПРАСКОВА",
+  "price": {
+    "$numberDecimal": "3.89"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/52d56b621369128da9ea54c7862d5a74.png",
+  "__v": 0,
+  "type": "СТУДЕН ЧАЙ ФЮЗТИЙ ПРАСКОВА ",
+  "volume": {
+    "$numberDecimal": "500"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ac9bcc147537ee3390e"
+  },
+  "name": "РЕД БУЛ",
+  "price": {
+    "$numberDecimal": "6.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/be6230c3c2a93abbabf20ec9927ff401.png",
+  "__v": 0,
+  "type": "250 МЛ. - КЕН",
+  "volume": {
+    "$numberDecimal": "250"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320acabcc147537ee3390f"
+  },
+  "name": "СОК МАРАКУЯ",
+  "price": {
+    "$numberDecimal": "5.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/a3d18449237296c43e7a4019f7b3b0f8.png",
+  "__v": 0,
+  "type": "350 мл. - кен",
+  "volume": {
+    "$numberDecimal": "350"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320accbcc147537ee33910"
+  },
+  "name": "СОК ГРАВИОЛА",
+  "price": {
+    "$numberDecimal": "5.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/7074f3db6f85b473088ae460ae6e5403.png",
+  "__v": 0,
+  "type": "350мл. - кен",
+  "volume": {
+    "$numberDecimal": "350"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320acebcc147537ee33911"
+  },
+  "name": "Японска бира Асахи",
+  "price": {
+    "$numberDecimal": "6.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/af61261fb665485197f4d3a321cc7011.png",
+  "__v": 0,
+  "type": "Японска бира - 250 мл.",
+  "volume": {
+    "$numberDecimal": "250"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ad0bcc147537ee33912"
+  },
+  "name": "Японска бира Кирин Ичибан",
+  "price": {
+    "$numberDecimal": "6.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/a965b2c137cbd7b67ff49bcff04402fc.png",
+  "__v": 0,
+  "type": "Японска бира Кирин Ичибан",
+  "volume": {
+    "$numberDecimal": "250"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ad2bcc147537ee33913"
+  },
+  "name": "Японска бира Саппоро",
+  "price": {
+    "$numberDecimal": "6.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/4352c3974720f5e13c2b9c1b1d29fcc0.png",
+  "__v": 0,
+  "type": "Японска бира Саппоро",
+  "volume": {
+    "$numberDecimal": "250"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ad4bcc147537ee33914"
+  },
+  "name": "ЯПОНСКА ЛИМОНАДА ЯГОДА",
+  "price": {
+    "$numberDecimal": "5.59"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/f0ca6a275c0fa902820b755b1112bcf6.png",
+  "__v": 0,
+  "type": "ЯПОНСКА ЛИМОНАДА ЯГОДА",
+  "volume": {
+    "$numberDecimal": "200"
+  }
+},
+{
+  "_id": {
+    "$oid": "66320ad6bcc147537ee33915"
+  },
+  "name": "СОК РОЗОВА ГУАВА",
+  "price": {
+    "$numberDecimal": "5.99"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/817b284a1a5a1d0564aaa547a71c0193.png",
+  "__v": 0,
+  "type": "330 мл. - кен",
+  "volume": {
+    "$numberDecimal": "330"
+  }
+},
+{
+  "_id": {
+    "$oid": "6639e7905ea435946dfa34d7"
+  },
+  "name": "КОКА КОЛА",
+  "price": {
+    "$numberDecimal": "3.49"
+  },
+  "image": "https://www.yakotosushi.bg/storage/images/products/gallery/134f45fdb2e6ce6997e247e548adbf3d.png",
+  "__v": 0,
+  "type": "330 мл. - кен",
+  "volume": {
+    "$numberDecimal": "330"
+  }
+}]
