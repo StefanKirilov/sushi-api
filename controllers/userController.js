@@ -49,6 +49,8 @@ router.get('/profile', async (req, res, next) => {
     .then(user => { res.status(200).json(user) })
     .catch(next); 
 
+    // console.log(result);
+
     return result;
 });
 
@@ -58,6 +60,8 @@ router.put('/profile', async (req, res, next) => {
     const { email, username } = req.body;
 
     const token = await userService.updateProfile(userId, email, username);
+
+    // res.cookie('auth', token, { httpOnly: true })
 
     res.json(token);
 });

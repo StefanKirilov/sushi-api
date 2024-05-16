@@ -11,6 +11,7 @@ const commentSchema = new mongoose.Schema({
     },
     comment: {
         type: String,
+        // required: [true, 'Comment is required'],
     },
     date: {
         type: String,

@@ -3,24 +3,36 @@ const User = require('../models/User');
 
 exports.getAll = () => Sushi.find();
 
+// exports.create = (bookingData) => Booking.create(bookingData);
+
 exports.getOne = (sushiId) => Sushi.findById(sushiId);
+
+// exports.update = (bookingId,bookingData) => Booking.findByIdAndUpdate(bookingId,bookingData);
+
+// exports.delete = (sushiId) => Sushi.findByIdAndDelete(sushiId);
 
 exports.like = async (sushiId, userId) =>{
     const sushi = await Sushi.findById(sushiId);
+    // const user = await User.findById(userId);
 
     sushi.likes.push(userId);
+    // user.likedHouses.push(bookingId);
 
     await sushi.save();
+    // await user.save();
 
     return;
 };
 
 exports.unlike = async (sushiId, userId) =>{
     const sushi = await Sushi.findById(sushiId);
+    // const user = await User.findById(userId);
 
     sushi.likes.pull(userId);
+    // user.likedHouses.pull(bookingId);
 
     await sushi.save();
+    // await user.save();
 
     return;
 };
