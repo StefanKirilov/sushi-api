@@ -15,6 +15,11 @@ Make sure you have the following software installed on your local machine:
 ### MongoDB
 МongoDB data must be taken from a folder "mongoDB_menu_collection".
 
+### Install MomentJS
+
+cd 
+npm install
+
 ### Install Server Dependencies
 Navigate to the server directory and install the necessary dependencies:
 
