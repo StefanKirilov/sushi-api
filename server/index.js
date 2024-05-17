@@ -19,7 +19,7 @@ app.use(cookieParser());
 
 app.use(routes);
 
-mongoose.connect('mongodb://localhost:27017/sushi')
+mongoose.connect('mongodb+srv://stefank5248:beroe9211127583@cluster0.tyx9fyx.mongodb.net/')
 .then(() => console.log('DB connected'));
 
 app.listen(3030, () => console.log('Server is listening on port 3030'));
